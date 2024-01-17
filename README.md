@@ -52,3 +52,17 @@ All commands are run from the root of the project, from a terminal:
 ## 👀 Want to learn more?
 
 Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+
+## Deploy Website
+
+<details>
+<summary>Oppgave</summary>
+
+
+### Link Vercel med Github Repo
+1. Push din lokale kode til ditt Github repository.
+2. [Importer prosjetet](https://vercel.com/new) i Vercel.
+3. Vercel vil automatisk konfigurere og finne Astroprosjektet med tilsvarende innstillinger.
+4. Applikasjonen din er deployet! (til f.eks. [astro.vercel.app](astro.vercel.app))
+
+</details>
